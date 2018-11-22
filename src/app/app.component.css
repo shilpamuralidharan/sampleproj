@@ -1,0 +1,31 @@
+.stl{
+    background-color: blanchedalmond;
+    color: black;
+    margin-top: 10%;
+    height:25pc;
+    border-radius: 30px;
+    padding-top: 2pc;
+}
+.lbl{
+    padding-left: 7.5pc;
+    
+}
+.inp{
+    width: 14pc;
+    margin-left: 4pc;
+    border-radius: 10px;
+
+}
+.clbl{
+    padding-left: 5.6pc;
+    
+}
+.bn{
+    width: 14pc;
+    border-radius: 10px;
+    margin-left: 4pc;
+}
+.sml{
+    padding-left: 5pc;
+
+}
